@@ -577,7 +577,7 @@ Practice describing security concepts in the context of an attack. These categor
 	- Revert VM/Cloud instances.
 	- Process hollowing/injection, bootkits.
 - Credential access
-	- Brute force, access password managers, keylogging.
+	- [Brute force](https://en.wikipedia.org/wiki/Attack_model), access password managers, keylogging.
 	- etc/passwd & etc/shadow.
 	- Windows DCSync, Kerberos Gold & Silver tickets.
 	- Clear-text creds in files/pastebin, etc.
